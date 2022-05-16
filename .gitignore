@@ -1,1 +1,75 @@
+/build/
+.vs/
+.vscode/
+.idea/
+
+# kcl files
+.pytest_cache
+__pycache__
+__kclcache__/
+build-result/
+dist/
+kclvm.egg-info/
+.eggs/
+
+# Mac OS X files
+.DS_Store
+
+_python37_home_
+_site-packages
+
+__kcl_test_main.k
+
+# kclvm bundles
+/kclvm-*.zip
+/kcl-go*
+/_build_dist
+.kusion
+
+/venv/
+
+# Coverage
+.coverage
+.coverage.*
+/cover
+/scripts/cover
+
+/result
+
+coverage.xml
+TEST-kclvm.xml
+
+/go-test-coverprofile.*
+
+# Benchmark
+.benchmarks
+
+# Code check
+.code_check
+
+/_output
+
+# Lark parser cache
+lark_parser.pickle
+
+/vendor
+/_build*
+/__build*
+/_3rdparty
+
+	
+# Rust
+*.o
+*.a
+*.so
+*.orig
+/target
+/*/target
+/*/*/target
+/**/target
+
+_a.out.*
+_a.out_*.*
+# KCLVM cache
+.kclvm
 /_kclvm_plugins_
