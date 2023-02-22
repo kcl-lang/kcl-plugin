@@ -6,7 +6,6 @@ package kcl_plugin
 import (
 	"embed"
 	"errors"
-	"fmt"
 	"io/fs"
 	"os"
 	"path/filepath"
@@ -38,7 +37,6 @@ func InstallPlugins(root string) error {
 		if err := os.MkdirAll(filepath.Dir(abspath), 0777); err != nil {
 			_ = err
 		}
-		fmt.Println(abspath)
 		data, err := fs.ReadFile(embedFS, path)
 		if err != nil {
 			return err
