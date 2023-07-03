@@ -1,5 +1,5 @@
-# KCL 插件
+# KCL Plugin
 
-KCL 支持通过 Python 语言开发插件，KCL 程序导入插件中的函数。KCL通过插件运行时和辅助的命令行工具提供插件支持。
+KCL supports the development of plugins through the Python language, and KCL can import functions from plugins. KCL provides plugin support through plugin runtime and command-line tools.
 
-插件文档：https://kusionstack.io/docs/reference/lang/plugin/overview
++ [Documentation](https://kcl-lang.io/docs/reference/plugin/overview/)
