@@ -1,5 +1,5 @@
-// Copyright 2021 The KCL Authors. All rights reserved.
+// Copyright 2023 The KCL Authors. All rights reserved.
 
-module kusionstack.io/kcl-plugin
+module kcl-lang.io/kcl-plugin
 
 go 1.17

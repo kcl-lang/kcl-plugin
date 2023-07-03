@@ -6,7 +6,7 @@
 package main
 
 import (
-	"kusionstack.io/kcl-plugin"
+	"kcl-lang.io/kcl-plugin"
 )
 
 func main() {
