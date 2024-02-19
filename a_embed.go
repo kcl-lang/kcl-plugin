@@ -14,6 +14,7 @@ import (
 //go:embed README.md
 //go:embed hello
 //go:embed project_context
+//go:embed http
 var PluginFS embed.FS
 
 func InstallPlugins(root string) error {
