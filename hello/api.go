@@ -1,7 +1,7 @@
 package hello
 
 import (
-	plugin "kcl-lang.io/kcl-go/pkg/kcl_plugin"
+	"kcl-lang.io/kcl-go/pkg/plugin"
 )
 
 func init() {
