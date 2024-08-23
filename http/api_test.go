@@ -14,7 +14,7 @@ func TestHttpGet(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	if data["status"] == 200 {
-		t.Fatal(resultJson)
+	if int(data["status"].(float64)) != 200 {
+		t.Fatal(data["status"])
 	}
 }

@@ -1,6 +1,6 @@
-// Copyright 2021 The KCL Authors. All rights reserved.
+// Copyright The KCL Authors. All rights reserved.
 
-// kclvm plugins.
+// kcl plugins.
 package kcl_plugin
 
 import (
@@ -13,7 +13,6 @@ import (
 
 //go:embed README.md
 //go:embed hello
-//go:embed project_context
 //go:embed http
 var PluginFS embed.FS
 

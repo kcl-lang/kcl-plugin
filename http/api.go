@@ -30,7 +30,7 @@ func init() {
 						return nil, err
 					}
 					return &plugin.MethodResult{V: map[string]any{
-						"status": status,
+						"status": int(status),
 						"body":   string(body),
 					}}, nil
 				},

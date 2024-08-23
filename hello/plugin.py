@@ -1,4 +1,4 @@
-# Copyright 2020 The KCL Authors. All rights reserved.
+# Copyright The KCL Authors. All rights reserved.
 
 INFO = {
     'name': 'hello',
