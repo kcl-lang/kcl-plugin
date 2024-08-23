@@ -6,7 +6,7 @@ go 1.22
 
 require (
 	github.com/valyala/fasthttp v1.55.0
-	kcl-lang.io/kcl-go v0.9.3
+	kcl-lang.io/kcl-go v0.10.0-beta.2
 )
 
 require (
