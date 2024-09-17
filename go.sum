@@ -6,5 +6,5 @@ github.com/valyala/bytebufferpool v1.0.0 h1:GqA5TC/0021Y/b9FG4Oi9Mr3q7XYx6Kllzaw
 github.com/valyala/bytebufferpool v1.0.0/go.mod h1:6bBcMArwyJ5K/AmCkWv1jt77kVWyCJ6HpOuEn7z0Csc=
 github.com/valyala/fasthttp v1.55.0 h1:Zkefzgt6a7+bVKHnu/YaYSOPfNYNisSVBo/unVCf8k8=
 github.com/valyala/fasthttp v1.55.0/go.mod h1:NkY9JtkrpPKmgwV3HTaS2HWaJss9RSIsRVfcxxoHiOM=
-kcl-lang.io/kcl-go v0.10.0-rc.1 h1:6jH1xSW/WsoXQLy++71prlL8DpkXflx0BKFN5Xyi2sI=
-kcl-lang.io/kcl-go v0.10.0-rc.1/go.mod h1:7qUv6g/II7VmGUMXmwxdma1bR2UgLGNC3VopfDj0tSU=
+kcl-lang.io/kcl-go v0.10.1 h1:2YXQP5QcwNGVLnxdcTNLRoJkYn357gCgqbgU+8hVHxU=
+kcl-lang.io/kcl-go v0.10.1/go.mod h1:AQIQplXxCpodSw1Kt+qiFvIB7tzBQ18djT2GytS33nM=
