@@ -10,7 +10,7 @@ jobs:
     # Ref: https://github.com/actions/runner-images/tree/main/images/macos
     strategy:
       matrix:
-        os: [ macos-12, macos-14, ubuntu-latest ]
+        os: [ macos-14, ubuntu-latest ]
     runs-on: ${{ matrix.os }}
     steps:
       - name: Git checkout
