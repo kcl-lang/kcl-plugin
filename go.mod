@@ -2,10 +2,10 @@
 
 module kcl-lang.io/kcl-plugin
 
-go 1.23.0
+go 1.24.0
 
 require (
-	github.com/valyala/fasthttp v1.65.0
+	github.com/valyala/fasthttp v1.67.0
 	kcl-lang.io/kcl-go v0.11.3
 )
 
