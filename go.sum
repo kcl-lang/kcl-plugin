@@ -8,7 +8,7 @@ github.com/valyala/fasthttp v1.65.0 h1:j/u3uzFEGFfRxw79iYzJN+TteTJwbYkru9uDp3d0Y
 github.com/valyala/fasthttp v1.65.0/go.mod h1:P/93/YkKPMsKSnATEeELUCkG8a7Y+k99uxNHVbKINr4=
 github.com/xyproto/randomstring v1.0.5 h1:YtlWPoRdgMu3NZtP45drfy1GKoojuR7hmRcnhZqKjWU=
 github.com/xyproto/randomstring v1.0.5/go.mod h1:rgmS5DeNXLivK7YprL0pY+lTuhNQW3iGxZ18UQApw/E=
-kcl-lang.io/kcl-go v0.12.3 h1:YkTkj4UU9HIkGf/QFhNiA0VWeCMkzQWbWdZhXJfr3rE=
-kcl-lang.io/kcl-go v0.12.3/go.mod h1:0K/gcJnZJ7K+pANibL+zlsCFiibwRCrzMcuCZJIsiPc=
-kcl-lang.io/lib v0.12.3 h1:x/a4Nyl5Wa5gMrhu5dPLeZEho9ryXJXgHODXJ8xC9gk=
-kcl-lang.io/lib v0.12.3/go.mod h1:kK/P1DUXQD+HpdRuPMb4/f7U7Njr2q5VrihmDHjKtnw=
+kcl-lang.io/kcl-go v0.12.5 h1:8kwySQ8G2GMwKxcUidyTZoBIDBvtWCZ3v1z0mB59EzI=
+kcl-lang.io/kcl-go v0.12.5/go.mod h1:CzQq9E1QLgJAthf9y1eRTp3oci1u9jn7LQCdBkDUCtk=
+kcl-lang.io/lib v0.12.5 h1:gh+cLH5l17vUEucqkmS79Hzh1MFhx7L7Uz/Dj2+xx9k=
+kcl-lang.io/lib v0.12.5/go.mod h1:G2pPSIdu+cFb5OxiaxB0qBRIFFL598OZf1e5oiqWnns=
