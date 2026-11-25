@@ -1,3 +1,6 @@
+// Package hello is the KCL plugin imported as kcl_plugin.hello.
+// Blank-import this package from the host that calls kcl.Run.
+// The examples module shows the host and the KCL that calls hello.add.
 package hello
 
 import (

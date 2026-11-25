@@ -1,3 +1,6 @@
+// Package http is the KCL plugin imported as kcl_plugin.http.
+// Blank-import this package from the host that calls kcl.Run.
+// examples/module/http is a KCL subpackage that calls http.get.
 package http
 
 import (

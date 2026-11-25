@@ -19,7 +19,9 @@ jobs:
       - name: Set up Go
         uses: actions/setup-go@v6
         with:
-          go-version: 1.23
+          # setup-go sets GOTOOLCHAIN=local, so this must satisfy go.mod
+          # (go 1.25). 1.26.6 matches the toolchain directive.
+          go-version: "1.26.6"
 
       - name: go test
         run: go test ./...

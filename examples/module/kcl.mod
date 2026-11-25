@@ -1,0 +1,4 @@
+[package]
+name = "plugin_examples"
+edition = "0.0.1"
+version = "0.0.1"
